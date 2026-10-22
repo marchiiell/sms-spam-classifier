@@ -1,0 +1,11 @@
+{
+  "best_model": "TF-IDF (word+char) + Linear SVM",
+  "threshold": 0.06538356010883506,
+  "precision_target": 0.99,
+  "precision_target_reached_in_cv": true,
+  "messages": 5160,
+  "duplicates_removed": 414,
+  "spam_share": 0.12441860465116279,
+  "seed": 42,
+  "demo_data": false
+}
